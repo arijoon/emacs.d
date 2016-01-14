@@ -66,6 +66,9 @@
 (require-package 'nlinum)
 (global-nlinum-mode t)
 
+;; (require-package 'evil-magit)
+;; (require 'evil-magit)
+
 
 (provide 'init-evil)
 ;;; init-evil.el ends here
