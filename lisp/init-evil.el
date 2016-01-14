@@ -66,6 +66,7 @@
 (require-package 'nlinum)
 (global-nlinum-mode t)
 
+;; Add git customization for evil-magit
 (require-package 'evil-magit)
 (require 'evil-magit)
 
