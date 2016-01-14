@@ -6,6 +6,7 @@
 
 (require 'init-evil)
 (require 'init-tabbar)
+(require 'init-projectile)
 
 
 (provide 'init-local)
