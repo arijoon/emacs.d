@@ -62,5 +62,10 @@
 	    (define-key evil-normal-state-local-map (kbd "q") 'neotree-hide)
 	    (define-key evil-normal-state-local-map (kbd "RET") 'neotree-enter)))
 
+;; Text editor customizations
+(require-package 'nlinum)
+(global-nlinum-mode t)
+
 
 (provide 'init-evil)
+;;; init-evil.el ends here
