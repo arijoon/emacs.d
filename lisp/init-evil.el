@@ -25,10 +25,10 @@
 (define-key evil-normal-state-map (kbd "<down>") "ddp")
 
 ;; Window movements
-(define-key evil-normal-state-map (kbd "C-h") 'evil-window-left)
-(define-key evil-normal-state-map (kbd "C-j") 'evil-window-down)
-(define-key evil-normal-state-map (kbd "C-k") 'evil-window-up)
-(define-key evil-normal-state-map (kbd "C-l") 'evil-window-right)
+(define-key evil-normal-state-map (kbd "C-c C-h") 'evil-window-left)
+(define-key evil-normal-state-map (kbd "C-c C-j") 'evil-window-down)
+(define-key evil-normal-state-map (kbd "C-c C-k") 'evil-window-up)
+(define-key evil-normal-state-map (kbd "C-c C-l") 'evil-window-right)
 (define-key evil-normal-state-map (kbd "<left>") (kbd "C-c C-<left>"))
 (define-key evil-normal-state-map (kbd "<right>") (kbd "C-c C-<right>"))
 

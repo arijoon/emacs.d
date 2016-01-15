@@ -1,1 +1,1 @@
-("c:/Users/ayaraee/dotfiles/emacs-2/")
+("c:/Users/ayaraee/dotfiles/emacs-2/" "d:/myProjects/chindesaures/" "d:/pers/blog/")
