@@ -1,3 +1,6 @@
 [submodule "site-lisp/livedown"]
 	path = site-lisp/livedown
 	url = https://github.com/shime/emacs-livedown.git
+[submodule "site-lisp/livedown-2"]
+	path = site-lisp/livedown-2
+	url = https://github.com/shime/emacs-livedown
