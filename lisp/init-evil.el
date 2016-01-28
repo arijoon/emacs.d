@@ -66,6 +66,9 @@
 (require-package 'nlinum)
 (global-nlinum-mode t)
 
+;; Set indentation
+(setq evil-shift-width 2)
+
 ;; Add git customization for evil-magit
 (require-package 'evil-magit)
 (require 'evil-magit)
