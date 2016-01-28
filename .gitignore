@@ -42,3 +42,4 @@ site-lisp/package/
 /viper
 /server/server8040
 *.swp
+session.*
