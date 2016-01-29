@@ -8,6 +8,7 @@
 (require 'init-tabbar)
 (require 'init-projectile)
 (require 'init-livedown)
+(require 'init-javascript-local)
 
 
 (provide 'init-local)
