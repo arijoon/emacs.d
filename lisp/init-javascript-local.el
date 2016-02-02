@@ -31,7 +31,7 @@
     '(progn
        (require 'tern-auto-complete)
        (tern-ac-setup)
-       (define-key evil-insert-state-map (kbd "C-TAB") 'tern-ac-complete))))
+       (define-key evil-insert-state-map (kbd "<C-tab>") 'tern-ac-complete))))
 
 (require-package 'tern)
 (require-package 'tern-auto-complete)
