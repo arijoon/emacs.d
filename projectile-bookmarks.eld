@@ -1,1 +1,0 @@
-("~/dotfiles/emacs/" "~/projects/triangleGame/" "~/site/yaraee.net/" "~/site/yaraee.net/blog/" "c:/Users/ayaraee/dotfiles/emacs-2/" "d:/myProjects/chindesaures/" "d:/pers/blog/")

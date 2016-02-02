@@ -69,6 +69,11 @@
 ;; Set indentation
 (setq evil-shift-width 2)
 
+;; Set Spell
+(evil-leader/set-key
+  "ss" 'ispell-word
+  "sr" 'ispell-region)
+
 ;; Add git customization for evil-magit
 (require-package 'evil-magit)
 (require 'evil-magit)

@@ -9,6 +9,8 @@
 (require 'init-projectile)
 (require 'init-livedown)
 (require 'init-javascript-local)
+(require 'init-webmode)
+(require 'init-my-utils)
 
 
 (provide 'init-local)

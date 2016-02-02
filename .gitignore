@@ -43,3 +43,4 @@ site-lisp/package/
 /server/server8040
 *.swp
 session.*
+projectile*
