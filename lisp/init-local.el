@@ -11,6 +11,7 @@
 (require 'init-javascript-local)
 (require 'init-webmode)
 (require 'init-my-utils)
+(require 'init-theme-local)
 
 
 (provide 'init-local)
